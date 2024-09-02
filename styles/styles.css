@@ -1,0 +1,158 @@
+.header_nav_link {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.header_registration_link {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.choice_title {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 85px;
+    line-height: 93.5px;
+    text-align: center;
+    color: #000000; 
+}
+
+.wildly_loved_title {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 85px;
+    line-height: 93.5px;
+    color: #000000; 
+}
+
+.wildly_loved_text {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000; 
+}
+
+.assortment_sub_title {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42.12px;
+    color: #000000; 
+}
+
+.assortment_cost_text {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 31.5px;
+    color: #000000;
+}
+
+.assortment_btn {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #000000;
+}
+
+.wild_way_title {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 85px;
+    line-height: 93.5px;
+    color: #000000;
+}
+
+.wild_way_text {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000; 
+}
+
+.wild_way_btn {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+}
+
+.nut_right_side_title {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 85px;
+    line-height: 93.5px;
+    color: #000000; 
+}
+
+.nut_right_side_sub_title {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 85px;
+    line-height: 93.5px;
+    color: #000000;
+}
+
+.nut_right_side_text {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.nut_right_side_sub_text {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 31.5px;
+    color: #000000; 
+}
+
+.nut_right_side_btn {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    color: #FFFFFF; 
+}
+
+.soul_words_title {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #000000;  
+}
+
+.soul_words_text {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000; 
+}
+
+/*store style*/
+
+.store_title {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 85px;
+    line-height: 93.5px;
+    color: #000000;
+}
