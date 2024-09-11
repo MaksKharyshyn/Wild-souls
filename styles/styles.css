@@ -1,9 +1,52 @@
-.header_nav_link {
+.sub_header {
+    background-color: #000000;
     font-family: Roboto;
     font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 11px 0;
+}
+
+.header {
+    background: url(/images/header-pg.jpg);
+    display: flex;
+    justify-content: space-evenly;  
+    padding: 30px 33px 0 0;
+}
+
+.header_nav_list {
+    display: flex;
+}
+
+.header_nav_item {
+    margin-right: 42px;
+}
+
+.header_nav_item:last-child {
+    margin-right: 0;    
+}
+
+.header_nav_link {
+    font-family: Roboto;
+    font-weight: 400;   
     font-size: 14px;
     line-height: 24px;
     color: #000000;
+    text-transform: uppercase;
+}
+
+.header_registration_list {
+    display: flex;
+}
+
+.header_registration_item {
+    margin-right: 42px; 
+}
+
+.header_registration_item:last-child {
+    margin-right: 0px;
 }
 
 .header_registration_link {
@@ -12,6 +55,8 @@
     font-size: 16px;
     line-height: 24px;
     color: #000000;
+    text-transform: uppercase;
+
 }
 
 .choice_title {
@@ -156,3 +201,4 @@
     line-height: 93.5px;
     color: #000000;
 }
+
