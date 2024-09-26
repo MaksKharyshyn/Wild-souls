@@ -10,7 +10,11 @@
 }
 
 .header {
-    background: url(/images/header-pg.jpg);
+    background: url(/images/header-pg.jpg) no-repeat;
+    background-size: 100%;
+}
+
+.nav_wrapper {
     display: flex;
     justify-content: space-evenly;  
     padding: 30px 33px 0 0;
@@ -59,6 +63,10 @@
 
 }
 
+.choice {
+    padding: 16px 400px 408px 400px;;
+}
+
 .choice_title {
     font-family: Roboto;
     font-weight: 400;
@@ -66,6 +74,23 @@
     line-height: 93.5px;
     text-align: center;
     color: #000000; 
+}
+
+.wildly_loved {
+    background-color: #ED7B49;
+}
+
+.wildly_wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.wildly_loved_logo {
+    margin-right: 142px;
+}
+
+.wildly_loved_title {
+    margin-bottom: 12px;
 }
 
 .wildly_loved_title {
@@ -82,6 +107,11 @@
     font-size: 16px;
     line-height: 24px;
     color: #000000; 
+}
+
+.assortment_list {
+    display: flex;
+    justify-content: center;
 }
 
 .assortment_sub_title {
@@ -107,6 +137,21 @@
     line-height: 27px;
     text-align: center;
     color: #000000;
+    border-radius: 36px;
+    border: none;
+    padding: 11px 47px ; 
+}
+
+.green {
+    background-color: #72A080;
+}
+
+.brown {
+    background-color: #A95D50;
+}
+
+.grey {
+    background-color: #ABAFD6;
 }
 
 .wild_way_title {
